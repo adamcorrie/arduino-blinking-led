@@ -1,5 +1,5 @@
 /*
- * Blinking LED
+ * Simple Blinking LED
  * 
  * Connect an LED and a suitable current-limiting resistor
  * between Pin 13 and GND. Or use the built-in LED. Up to you.
